@@ -34,25 +34,32 @@ def save_rectified_article(article_id: str, rectified_content: str):
     with open(fpath, 'w', encoding='utf-8') as f:
         f.write(rectified_content)
 
+def get_source_article(article_id: str):
+    _mapping = get_article_mapping(article_id)
+    fpath = _mapping['source_file']
+    with open(fpath, 'r', encoding='utf-8') as f:
+        return f.read()
+
 def rectify_article(article_id: str):
     """
     Rectify an AI-generated article.
-    
+
     Args:
         article_id: ID of the article (e.g., 'article_001')
-    
+
     Returns:
         str: The rectified article content
     """
-    
+
     ai_generated_content = get_ai_generated_article(article_id)
-    
+    source_content = get_source_article(article_id)
+
     # PLUG YOUR CUSTOM RECTIFIER HERE
-    rectified_content = run(ai_generated_content)
+    rectified_content = run(ai_generated_content, source_content)
     ###################################
-    
+
     save_rectified_article(article_id, rectified_content)
-    
+
     print(f"[OK] Rectified {article_id}")
     return rectified_content
 
