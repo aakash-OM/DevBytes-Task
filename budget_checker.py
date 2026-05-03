@@ -95,23 +95,23 @@ def display_budget(info):
         # Determine status icon
         usage_percent = (spend / max_budget) * 100 if max_budget > 0 else 0
         if usage_percent > 90:
-            status_icon = "🔴" # Critical
+            status_icon = "[CRITICAL]"
         elif usage_percent > 75:
-            status_icon = "jq" # Warning
+            status_icon = "[WARNING]"
         else:
-            status_icon = "🟢" # Good
+            status_icon = "[OK]"
 
-    print("\n📊 API Budget Status")
+    print("\n=== API Budget Status ===")
     print("-------------------")
-    print(f"👤 User ID:    {user_id}")
-    print(f"💸 Total Spend: ${spend:.4f}")
-    
+    print(f"User ID:      {user_id}")
+    print(f"Total Spend:  ${spend:.4f}")
+
     if max_budget is not None:
-        print(f"💰 Max Budget:  ${max_budget:.4f}")
-        print(f"{status_icon} Remaining:   {remaining}")
+        print(f"Max Budget:   ${max_budget:.4f}")
+        print(f"Remaining:    {remaining}")
     else:
-        print(f"💰 Max Budget:  Unlimited")
-    
+        print(f"Max Budget:   Unlimited")
+
     print("-------------------\n")
 
 def main():

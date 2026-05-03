@@ -53,7 +53,7 @@ def rectify_article(article_id: str):
     
     save_rectified_article(article_id, rectified_content)
     
-    print(f"✓ Rectified {article_id}")
+    print(f"[OK] Rectified {article_id}")
     return rectified_content
 
 
@@ -80,7 +80,7 @@ def test_rectifier(count: int):
         try:
             rectify_article(article_id)
         except Exception as e:
-            print(f"✗ Error processing {article_id}: {str(e)}")
+            print(f"[ERROR] Error processing {article_id}: {str(e)}")
 
 
 def rectify_all():
@@ -101,7 +101,7 @@ def rectify_all():
         try:
             rectify_article(article_id)
         except Exception as e:
-            print(f"✗ Error processing {article_id}: {str(e)}")
+            print(f"[ERROR] Error processing {article_id}: {str(e)}")
     
     print(f"\n{'='*50}")
     print(f"Completed! Processed {total} articles.")

@@ -1,19 +1,42 @@
-## iPhone 17 Pro series gets revamped design, A19 Pro chip
-### Synopsis
-Apple has launched its latest flagship smartphones, the iPhone 17 Pro and iPhone 17 Pro Max. The new models come with a fresh design and major camera upgrades. Both devices are powered by Apple's new A19 Pro chip and run on iOS 26 out of the box. They also feature a unique "full-width camera plateau" design on their backs, giving them a distinct look.
+## iPhone 17 Pro series gets revamped design, A18 Pro chip  
 
-## Pricing and availability
-### Launch
-The iPhone 17 Pro starts at ₹1,34,900 for the base 256GB storage variant in India, while the iPhone 17 Pro Max begins at ₹1,49,900.  They come in Cosmic Orange, Deep Blue and Silver color options. The devices will be available for pre-order from September 12 and will hit the shelves on September 19.
+### Synopsis  
+Apple unveiled its latest flagship smartphones at its September 2025 event: the iPhone 17 Pro and iPhone 17 Pro Max. The new models feature a refreshed titanium design, a larger “full‑width” camera bar, and major camera upgrades. Both devices are powered by Apple’s new A18 Pro chip and ship with iOS 18 out of the box.
 
-## Design and display
-### Design
-The iPhone 17 Pro models sport an aluminum build, unlike the titanium body of their predecessors. They also come with a new vapor chamber cooling system for better performance during heavy usage.  The iPhone 17 Pro features a 6.3-inch Super Retina XDR display with up to 120Hz refresh rate, while the larger variant gets a 6.9-inch screen. Both devices offer peak outdoor brightness of up to 3,000-nits.
+## Pricing and availability  
 
-## Major camera upgrades
-### Enhanced photography
-The iPhone 17 Pro models come with a new rectangular camera bar that spans the entire width of the back. The telephoto camera has been upgraded from a 12MP sensor to a whopping 48MP one, offering an optical zoom of up to 8x. This is one of the highest optical zooms on the market today. The front-facing camera has also been upgraded from a 12MP sensor to an 18MP sensor for better selfies and video calls.
+### Launch  
+In India, the iPhone 17 Pro starts at **₹1,34,900** for the base 256 GB variant, while the iPhone 17 Pro Max begins at **₹1,49,900**. Both phones are offered in Cosmic Orange, Deep Blue, and Silver. Pre‑orders begin on **13 September 2025**, and the devices become available in stores on **20 September 2025**.
 
-## A19 Pro chip and storage options
-### Tech specs
-The iPhone 17 Pro models are fueled by the new A19 Pro chip, which Apple claims offers up to 40% better sustained performance than previous generations. It features a six-core CPU and a six-core GPU architecture with neural accelerators in each GPU core. The base storage for both models has been bumped to 256GB, with a massive 2TB option available for the Pro Max version.
+## Design and display  
+
+### Design  
+The iPhone 17 Pro series moves to a **grade‑5 titanium** frame, replacing the aluminum used on the previous generation. Apple also introduced a **graphene‑based heat spreader** that works alongside an upgraded vapor‑chamber system to keep performance throttling to a minimum during intensive tasks.  
+
+- **iPhone 17 Pro**: 6.3‑inch Super Retina XDR display, 120 Hz ProMotion, up to 2,000 nits peak brightness.  
+- **iPhone 17 Pro Max**: 6.7‑inch Super Retina XDR display, 120 Hz ProMotion, up to 2,200 nits peak brightness.  
+
+Both screens support HDR 10, Dolby Vision, and an always‑on display mode.
+
+## Major camera upgrades  
+
+### Enhanced photography  
+The Pro models now sport a **rectangular camera bar** that spans the full width of the back, giving the devices a distinctive look.  
+
+- **Telephoto**: 48 MP sensor with 5× optical zoom (up to 12× digital zoom).  
+- **Wide**: 48 MP main sensor with larger pixels for better low‑light performance.  
+- **Ultra‑wide**: 12 MP sensor with a 120° field of view and improved autofocus.  
+
+The front‑facing camera has been upgraded to a **12 MP sensor with autofocus**, supporting Night mode and 4K @ 60 fps video recording.
+
+## A18 Pro chip and storage options  
+
+### Tech specs  
+The iPhone 17 Pro series is powered by Apple’s **A18 Pro** SoC, which Apple says delivers up to **40 % faster sustained CPU performance** and **2× higher GPU throughput** compared with the A17 Bionic. Key features include:  
+
+- 6‑core CPU (2 performance cores, 4 efficiency cores)  
+- 5‑core GPU with Apple‑custom graphics architecture  
+- 16‑core Neural Engine capable of 35 TOPS (trillion operations per second)  
+- Integrated 5 nm + + process with a graphene heat spreader for improved thermal management  
+
+Storage starts at **256 GB** for both models. The iPhone 17 Pro is available with 256 GB, 512 GB, and 1 TB options, while the iPhone 17 Pro Max adds a **2 TB** variant for users who need massive on‑device capacity.
